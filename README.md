@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**xyy94813/xyy94813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![
+Welcome to my Github.
+I'm a Web Front-End Developer.
+with a passion for creating beautiful and interactive  web EX.
+](https://readme-typing-svg.herokuapp.com/?&color=859901&repeat=false&multiline=true&repeat=false&random=false&height=100&lines=Welcome+to+my+Github.;I'm+a+Web+Front-End+Developer;with+a+passion+for+creating;beautiful+and+interactive;+web+experiences.)
 
-Here are some ideas to get you started:
+![github readme stats](https://github-readme-stats.vercel.app/api?username=xyy94813&locale=en&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below are the open source frameworks and tools I love:
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,wasm,md,deno,nodejs,graphql,react,redux,jest,gatsby,nextjs,vue,nuxtjs,webpack,vite,rollupjs,babel,docker,github,gitlab,sentry,vscode,figma,discord)
+  
+💪 Encourage me to keep going..
+
+[`爱发电`](https://afdian.net/a/roxom)
+
