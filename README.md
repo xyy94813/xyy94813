@@ -15,5 +15,4 @@ Below are the open source frameworks and tools I love:
 
 💪 Encourage me to keep going..
 
-[`爱发电`](https://afdian.net/a/roxom)
-
+<!-- [`爱发电`](https://afdian.net/a/roxom) -->
